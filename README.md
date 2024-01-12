@@ -12,3 +12,5 @@
 - git merge, rebase
 - other commands follow here.
 
+- git revert
+- git reset --hard and soft
