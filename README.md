@@ -14,3 +14,5 @@
 
 - git revert
 - git reset --hard and soft
+
+- git is hard ??
