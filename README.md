@@ -16,3 +16,5 @@
 - git reset --hard and soft
 
 - git is hard ??
+
+- Let me contribute something ha ha
