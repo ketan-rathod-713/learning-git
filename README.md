@@ -2,3 +2,13 @@
 
 # TOPICS
 
+- git init
+- git add
+- git commit
+- git stash
+- git tag
+- git log
+- git branch
+- git merge, rebase
+- other commands follow here.
+
